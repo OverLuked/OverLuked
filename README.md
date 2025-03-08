@@ -18,4 +18,3 @@ Here are some ideas to get you started:
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/luke-malachi-o-edillor-58aab2230/)
-- [Gmail](edillorluke@gmail.com)
