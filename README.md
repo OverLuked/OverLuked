@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning Software Development
+- 🌱 I’m currently learning Software Development and Machine Learning
 - 📫 How to reach me: edillorluke@gmail.com
 
 ## My GitHub Stats
