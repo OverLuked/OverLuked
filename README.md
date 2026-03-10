@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🌱 I’m currently learning Software Development and Machine Learning
-- 📫 How to reach me: edillorluke@gmail.com
+- 📫 How to reach me: luke.malachi.edillor@gmail.com
 
 ## My GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=OverLuked&show_icons=true&theme=tokyonight)
